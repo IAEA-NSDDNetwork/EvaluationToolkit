@@ -12,7 +12,7 @@ How it works:
 
 Note: all codes are run with default settings. To view/change settings or to run any individual code, double click on a code in the checkbox area to open that code and run it separately. 
 
-Common tools:\n
+Common tools:
 Click on the “Other Tools” button to open a small window listing some common tools which I think could be useful. Please let me know if you have any other suggestion or idea about any tool you want to use and you want to be implemented. A short description is given for each tool and click the tool name button to open the tool window where I have added a simple instruction or examples for usage.
 
 ## Disclaimer
