@@ -1,2 +1,2 @@
 # EvaluationToolkit
-A toolkit that combined all ENSDF Java codes and commont tools in one application.
+A toolkit that combines all ENSDF Java codes and commont tools in one application.
