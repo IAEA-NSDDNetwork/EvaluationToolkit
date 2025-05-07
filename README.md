@@ -1,7 +1,7 @@
 # EvaluationToolkit
 A toolkit that combines all ENSDF Java codes and some common tools in one application. Please address any feedback to Jun Chen chenj@frib.msu.edu
 
-#### 2025-04 
+#### 2025-05 
 Improvements and bug fixes of individual codes included in this toolkit
 
 #### 2025-04 
